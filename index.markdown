@@ -27,6 +27,7 @@ permalink: /
 * [The character building document][character_builder]
 * [The Spreadsheet tracker][spreadsheet_tracker]
 * [Darker Dungeons][darker_dungeons]
+* [Session Reports][session_reports]
 
 What is a [West Marches Campaign][west_marches_stackexchange]?
 
@@ -43,3 +44,4 @@ into town.
 [character_builder]: https://docs.google.com/spreadsheets/d/1gsH4J1rAXI_LUvaBDZAmiqRY5wA3El9pA_nQaIqzdz8/edit#gid=0
 [spreadsheet_tracker]: https://docs.google.com/spreadsheets/d/1qtLf07onMcsfyJLDcySESCcGAodHCR0pUAa0RWyz5G0/edit#gid=1056829732
 [darker_dungeons]: https://giffyglyph.com/darkerdungeons/grimoire/3.1.1/en/
+[session_reports]: /sessions
