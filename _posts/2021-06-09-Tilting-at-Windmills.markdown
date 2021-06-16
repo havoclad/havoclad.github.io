@@ -52,5 +52,5 @@ The orc leader goes down and we run run run.away and run away some more.
 
 end
 
-... or is it -- [See Alternate Ending](https://docs.google.com/document/d/1HDCuTEv7DZggWlAon70hH3ThM6Pi_A_CN1SYqy4OPPw/edit?usp=sharing)
+... or is it -- [See Alternate Ending](The-Rest-Of-The-Story)
 
