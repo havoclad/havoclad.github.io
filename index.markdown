@@ -39,9 +39,16 @@ is assumed to happen.  Note, in certain circumstances, the route back to town mi
 the characters will be "lost" and not available for the next session(s).  Fire up a new character until the old one wanders back
 into town.
 
+Time passes in world roughly equivalent to the real world.  IE, if we have  weekly game, your characters go out adventuring once a
+week.  They are responsible for upkeep and [lifestyle expenditures][lifestyle] for each week they spend in town.  In return, they 
+recieve one downtime action to spend for each week that passes (and for certain other events).  This represents the characters needs
+and interests. Many of these downtime actions will slowly improve the town, opening up new services for the characters and players to
+use.  In this way, the group can shape the town to fit their needs.
+
 [west_marches_stackexchange]: https://rpg.stackexchange.com/questions/120770/what-defines-a-west-marches-campaign
 [dnd_beyond]: https://www.dndbeyond.com/campaigns/1993550
 [character_builder]: https://docs.google.com/spreadsheets/d/1gsH4J1rAXI_LUvaBDZAmiqRY5wA3El9pA_nQaIqzdz8/edit#gid=0
 [spreadsheet_tracker]: https://docs.google.com/spreadsheets/d/1qtLf07onMcsfyJLDcySESCcGAodHCR0pUAa0RWyz5G0/edit#gid=1056829732
 [darker_dungeons]: https://giffyglyph.com/darkerdungeons/grimoire/3.1.1/en/
 [session_reports]: /sessions
+[lifestyle]: /lifestyle
