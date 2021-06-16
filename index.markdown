@@ -12,9 +12,9 @@ permalink: /
     {{ member.name}}
     {% assign characters = site.data.characters | where: "player", member.name %}
     <ul>
-    {% for member in characters %}
+    {% for character in characters %}
       <li>
-      <a href="{{member.dndbeyond}}">{{member.character}}</a>
+      <a href="{{character.dndbeyond}}">{{character.character}}</a> Level: {{character.level}}
     </li>
     {% endfor %}
     </ul>
