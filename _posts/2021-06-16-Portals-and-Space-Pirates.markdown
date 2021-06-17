@@ -123,7 +123,8 @@ the squid brushed against his ankles -- just as Windsor brings Bergrom back thro
 Suits air supplies are about 1/6 depleted -- and we can't find a way to replenish that.
 
 ---
-encouraged to hustle back to town after the air is sucked out the portals reset and we head back.
+
+encouraged to hustle back to town -- when the air is sucked out the portals reset.  We load up the cart and head back.
 
 ---
 called
