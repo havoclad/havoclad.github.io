@@ -21,8 +21,14 @@ permalink: /
           {% endif %}
         {% endfor %}
     {% endfor %}
-      <li>
-      <a href="{{character.dndbeyond}}">{{character.name}}</a> Level: {{character.level}}, XP: {{ xp }}
+    {% assign character_level = 0 %}
+    {% for line in site.data.levels %}
+      {% if xp >= line.xp %}
+        {% assign character_level = line.level %}
+      {% endif %}
+    {% endfor %}
+    <li>
+      <a href="{{character.dndbeyond}}">{{character.name}}</a> Level: {{character_level}}, XP: {{ xp }}
     </li>
     {% endfor %}
     </ul>
