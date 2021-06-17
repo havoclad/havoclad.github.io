@@ -3,7 +3,9 @@ layout: post
 title:  "And then there were Orcs"
 date:   2021-06-02 12:07:12 -0500
 categories: sessionreport
+session: 4
 ---
+{% include session_report_header.html %}
 
 Downtime
 

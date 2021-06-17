@@ -1,7 +1,10 @@
 ---
 layout: post
 categories: sessionreport
+session: 2
 ---
+
+{% include session_report_header.html %}
 
 Downtime - upgraded the potion house w/Jay.  I caroused and found 5 additional party members (some temporary).
 

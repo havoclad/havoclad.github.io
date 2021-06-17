@@ -1,7 +1,11 @@
 ---
 layout: post
 categories: sessionreport
+session: 1
 ---
+
+{% include session_report_header.html %}
+
 No More Lost Lands?...
 
 Taking a left turn at alberquerque we are diving into "new stuff coming tonight".

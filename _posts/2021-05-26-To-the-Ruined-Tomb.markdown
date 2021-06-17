@@ -1,7 +1,9 @@
 ---
 layout: post
 categories: sessionreport
+session: 3
 ---
+{% include session_report_header.html %}
 
 * Michael - Hard Work + Concoctions
 * Jon - Hard Work

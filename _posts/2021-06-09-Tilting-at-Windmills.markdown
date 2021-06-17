@@ -3,7 +3,9 @@ layout: post
 title:  "Tilting at Windmills"
 date:   2021-06-09 12:07:12 -0500
 categories: sessionreport
+session: 5
 ---
+{% include session_report_header.html %}
 Downtime
 
 * Armin - Concoctions & Hard Work - with more money could get materials to scribe scroll

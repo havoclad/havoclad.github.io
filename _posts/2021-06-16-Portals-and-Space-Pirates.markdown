@@ -3,7 +3,9 @@ layout: post
 title:  "Portals and Space Pirates"
 date:   2021-06-16 22:55:16 -0500
 categories: sessionreport
+session: 6
 ---
+{% include session_report_header.html %}
 ! Downtime
 * Bergram - Concoctions + 1
 * Armin - Concotions + Commune with Dead
