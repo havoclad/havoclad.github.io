@@ -1,17 +1,17 @@
-{% assign session = site.data.sessions | where: "session", page.session | first %}
+{% assign session = site.data.sessions | where: "session_number", page.session | first %}
 {% unless session %}
 No session found for session {{page.session}}
 {% endunless %}
 
-| Character | Player |
-| --- | --- |
-{%- for charactername in session.characters -%}
-  {% assign character = site.data.characters | where: "character", charactername | first %}
-  | <a href="{{character.dndbeyond}}">{{charactername }}</a> | 
+| Character | Additional XP | Player |
+| --- | --- | --- |
+{%- for party_member in session.party -%}
+  {% assign character = site.data.characters | where: "character", party_member.name | first %}
+  | <a href="{{character.dndbeyond}}">{{party_member.name }}</a> | 
   {%- if character.player %}
-  {{- character.player }} |
+    {{- party_member.additional_xp }} | {{- character.player }} |
   {%- else -%}
-  No player found? |
+    No player found? |
   {%- endif %}
 {%- endfor %}
 

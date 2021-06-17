@@ -1,47 +1,48 @@
-- session: 1
+- session_number: 1
   xp: 150
-  characters:
-    - Feathers
-    - Max Healthbar
-    - Armin
-    - Windsor Netherdancer
-    - Bergrom Gobblebane
-- session: 2
+  party:
+    - name: Feathers
+    - name: Max Healthbar
+    - name: Armin
+    - name: Windsor Netherdancer
+    - name: Bergrom Gobblebane
+- session_number: 2
   xp: 476
-  characters:
-    - Feathers
-    - Bergrom Gobblebane
-    - Armin
-    - Windsor Netherdancer
-    - Rawr
-    - ClapYoHandz
-- session: 3
+  party:
+    - name: Feathers
+    - name: Bergrom Gobblebane
+    - name: Armin
+    - name: Windsor Netherdancer
+    - name: Rawr
+    - name: ClapYoHandz
+- session_number: 3
   xp: 445
-  characters:
-    - Feathers
-    - Bergrom Gobblebane
-    - Armin
-    - Windsor Netherdancer
-    - Max Healthbar
-- session: 4
+  party:
+    - name: Feathers
+    - name: Bergrom Gobblebane
+    - name: Armin
+    - name: Windsor Netherdancer
+    - name: Max Healthbar
+- session_number: 4
   xp: 888
-  characters:
-    - Feathers
-    - Bergrom Gobblebane
-    - Armin
-    - Windsor Netherdancer
-- session: 5
+  party:
+    - name: Feathers
+    - name: Bergrom Gobblebane
+    - name: Armin
+    - name: Windsor Netherdancer
+- session_number: 5
   xp: 580
-  characters:
-    - Dr. Law
-    - Bergrom Gobblebane
-    - Armin
-    - Windsor Netherdancer
-    - Max Healthbar
-- session: 6
+  party:
+    - name: Dr. Law
+    - name: Bergrom Gobblebane
+    - name: Armin
+    - name: Windsor Netherdancer
+    - name: Max Healthbar
+- session_number: 6
   xp: 750
-  characters:
-    - Dr. Law
-    - Bergrom Gobblebane
-    - Armin
-    - Windsor Netherdancer
+  party:
+    - name: Dr. Law
+      additional_xp: 256
+    - name: Bergrom Gobblebane
+    - name: Armin
+    - name: Windsor Netherdancer

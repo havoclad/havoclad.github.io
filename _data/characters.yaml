@@ -2,43 +2,52 @@
   player: Jon
   dndbeyond: https://www.dndbeyond.com/profile/Jon1one/characters/50214361
   level: 4
+  initial_xp: 900
 
 - character: ClapYoHandz
   player: Tom
   dndbeyond: https://www.dndbeyond.com/profile/Tom914/characters/50657151
   level: 3
+  initial_xp: 900
 
 - character: Armin
   player: Michael
   dndbeyond: https://www.dndbeyond.com/profile/Mr__Ice/characters/50212753
   level: 4
+  initial_xp: 900
 
 - character: Max Healthbar
   player: Kevin
   dndbeyond: https://www.dndbeyond.com/profile/shockwave121/characters/50213620
   level: 3
+  initial_xp: 900
 
 - character: Dr. Law
   player: Jon
   dndbeyond: https://www.dndbeyond.com/profile/Jon1one/characters/51695180
   level: 2
+  initial_xp: 300
 
 - character: Bergrom Gobblebane
   player: Trey
   dndbeyond: https://www.dndbeyond.com/profile/Biliruben/characters/51813161
   level: 4
+  initial_xp: 900
 
 - character: Rawr
   player: Kayla
   dndbeyond: 
-  level: 2
+  level: 3
+  initial_xp: 900
 
 - character: Slumm Purr
   player: Kayla
   dndbeyond: https://www.dndbeyond.com/profile/Katalysta/characters/51104478
   level: 2
+  initial_xp: 300
 
 - character: Windsor Netherdancer
   player: Jay
   dndbeyond: https://www.dndbeyond.com/profile/Coloneldork/characters/50212471
   level: 4
+  initial_xp: 900
