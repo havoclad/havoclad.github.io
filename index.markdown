@@ -16,13 +16,13 @@ permalink: /
       {% assign xp = character.initial_xp %}
       {% for session in site.data.sessions %}
         {% for party_member in session.party %}
-          {% if party_member.name == character.character %}
+          {% if party_member.name == character.name %}
             {% assign xp =  xp | plus: session.xp | plus: party_member.additional_xp %}
           {% endif %}
         {% endfor %}
     {% endfor %}
       <li>
-      <a href="{{character.dndbeyond}}">{{character.character}}</a> Level: {{character.level}}, XP: {{ xp }}
+      <a href="{{character.dndbeyond}}">{{character.name}}</a> Level: {{character.level}}, XP: {{ xp }}
     </li>
     {% endfor %}
     </ul>

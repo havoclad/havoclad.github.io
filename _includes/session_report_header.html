@@ -6,7 +6,7 @@ No session found for session {{page.session}}
 | Character | Additional XP | Player |
 | --- | --- | --- |
 {%- for party_member in session.party -%}
-  {% assign character = site.data.characters | where: "character", party_member.name | first %}
+  {% assign character = site.data.characters | where: "name", party_member.name | first %}
   | <a href="{{character.dndbeyond}}">{{party_member.name }}</a> | 
   {%- if character.player %}
     {{- party_member.additional_xp }} | {{- character.player }} |
