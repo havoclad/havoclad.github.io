@@ -1,0 +1,65 @@
+- name: Training
+  downtime: 1
+  cost: 25gp x tier
+  benefit: Gain 10% of the xp difference between you and highest active PC
+  description: Help can always be had ... for a price.
+- name: Improve Groton
+  downtime: 1
+  cost: up to 25gp x level
+  benefit: Pick a town feature to improve with your money, expand Groton
+  description: Direct the future of Groton, unlocks benefits for all players
+- name: Commune with the Fallen Groton
+  downtime: 1
+  cost: free
+  benefit: Draw from the Dirty Trick Card Deck
+  description: Seek wisdom in the graveyard and gain a temporary power or benefit
+- name: Fitness Training
+  downtime: 1
+  cost: 15gp
+  benefit: Gain a d4 Fitness die, spend when rolling a str/con check, saving throw or skill
+  description: Spend time at the Guardhouse drilling, preparing
+- name: Criminal Underworld
+  downtime: 1
+  cost: 15gp
+  benefit: Gain a d4 Nimbleness die, spend when rolling a dex/cha check, saving throw or skill
+  description: Spend time running errands for unsavory characters to gain a future advantage
+- name: Study
+  downtime: 1
+  cost: 15gp
+  benefit: Gain a d4 Study die, spend when rolling a int/wis check, saving throw or skill
+  description: Hit the books, NERD
+- name: Hard Work
+  downtime: 1
+  cost: free
+  benefit: Gain [Level x Tier]d8 gp
+  description: Tell us what you did to earn the money!
+- name: Carouse
+  downtime: 1
+  cost: 25gp per die
+  benefit: Gain up to 2 carousing dice rolls, could be good or bad
+  description: It will be interesting, maybe.  Rolling more dice can only improve your odds
+- name: Buy a house
+  downtime: 1
+  cost: 500gp
+  benefit: Gain a small house, maybe with a servant
+  description: Put down some roots!
+- name: Learn a language
+  downtime: 10 - max(0, Int mod)
+  cost: 25 per downtime
+  benefit: Learn a new language
+  description: Learn Dwarvish, Elvish, Giant, Gnomish, Goblin, Halfling, or Orc.  Does not have to be consecutive downtimes spent.
+- name: Learn Tool Use
+  downtime: 10 - max(0, Int mod)
+  cost: 25 per downtime
+  benefit: Become proficient with a new tool
+  description: Artisan's set, gaming set, or musical instrument, does not have to tbe consecutive downtimes.
+- name: Help out at Crazy Concotions
+  downtime: 1
+  cost: free
+  benefit: Gain one lesser healing potion
+  description: Help out around the shop, get paid in merchandise
+- name: Other stuff
+  downtime: 1
+  cost: variable
+  benefit: variable
+  description: 40 hours to scribe scrolls, write into your spellbook, whatever else is time tracked per the book.

@@ -55,7 +55,7 @@ into town.
 
 Time passes in world roughly equivalent to the real world.  IE, if we have  weekly game, your characters go out adventuring once a
 week.  They are responsible for upkeep and [lifestyle expenditures][lifestyle] for each week they spend in town.  In return, they 
-recieve one downtime action to spend for each week that passes (and for certain other events).  This represents the characters needs
+recieve one [downtime action to spend][downtime] for each week that passes (and for certain other events).  This represents the characters needs
 and interests. Many of these downtime actions will slowly improve the town, opening up new services for the characters and players to
 use.  In this way, the group can shape the town to fit their needs.
 
@@ -66,3 +66,4 @@ use.  In this way, the group can shape the town to fit their needs.
 [darker_dungeons]: https://giffyglyph.com/darkerdungeons/grimoire/3.1.1/en/
 [session_reports]: /sessions
 [lifestyle]: /lifestyle
+[downtime]: /downtime
