@@ -34,7 +34,6 @@
   xp: 580
   party:
     - name: Dr. Law
-    - name: Bergrom Gobblebane
     - name: Armin
     - name: Windsor Netherdancer
     - name: Max Healthbar
@@ -46,3 +45,15 @@
     - name: Bergrom Gobblebane
     - name: Armin
     - name: Windsor Netherdancer
+- session_number: 7
+  xp: 414
+  party:
+    - name: Dr. Law
+    - name: Bergrom Gobblebane
+    - name: Armin
+    - name: ClapYoHandz
+    - name: Max Healthbar
+      additional_xp: 401
+    - name: Slumm Purr
+      additional_xp: 389
+    - name: Kysyra
