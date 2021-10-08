@@ -1,14 +1,7 @@
 ---
 layout: post
 categories: sessionreport
-session: 9
----
-
-{% include session_report_header.html %}
----
-layout: post
-categories: sessionreport
-session: 1
+session: 8
 ---
 
 {% include session_report_header.html %}
