@@ -57,3 +57,10 @@
     - name: Slumm Purr
       additional_xp: 389
     - name: Kysyra
+- session_number: 8
+  xp: 700
+  party:
+    - name: Starvald Wildtoe
+    - name: Windsor Netherdancer
+    - name: Max Healthbar
+    - name: Armin
